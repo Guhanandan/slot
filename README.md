@@ -34,7 +34,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="lightblue">
-<caption><b>SLOT TIME TABLE - DILIP SANJAY M (23014243)</b></caption>
+<caption><b>SLOT TIME TABLE - DILIP Guhanandan (212221220014)</b></caption>
 <tr align="center">
 <th bgcolor="cyan">Day/Time</th>
 <th bgcolor="cyan">Monday</th>
@@ -124,7 +124,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![316378949-6cbfac02-51ef-49a8-8295-c1220eb2398c](https://github.com/Guhanandan/slot/assets/100425381/bb08601c-93b0-4a95-96db-4b8b98a2ae74)
+![image](https://github.com/Guhanandan/slot/assets/100425381/2ebce3a1-64b4-4e2d-a959-8af4a932b4ae)
+
 
 
 ## RESULT
